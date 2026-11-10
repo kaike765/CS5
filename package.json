@@ -1,0 +1,8 @@
+{
+  "name": "eagler-codespaces-smoke-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Teste isolado de WebSocket e alcance TCP; não é proxy Minecraft.",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
